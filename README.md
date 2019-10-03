@@ -44,6 +44,9 @@ secondary-structure-of-proteins
 └───models
 │
 └───notebooks
+│   │   01-exploratory-data-analysis.ipynb
+│   │   02-intermediate-data-processing.ipynb
+│   │   03-predictive-data-modeling.ipynb
 │   
 └───references
 │   
