@@ -1,6 +1,8 @@
 # General garbage files/folders
 .DS_Store
 */.DS_Store
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
 
 # Data files (too large to upload/download)
 datasets/
@@ -9,7 +11,8 @@ datasets/
 models/
 
 # Notebook files (unprepared)
-notebooks/
+notebooks/02-intermediate-data-processing.ipynb
+notebooks/03-predictive-data-modeling.ipynb
 
 # Reference files (unprepared)
 references/
