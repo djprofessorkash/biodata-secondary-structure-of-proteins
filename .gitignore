@@ -1,0 +1,23 @@
+# General garbage files/folders
+.DS_Store
+*/.DS_Store
+
+# Data files (too large to upload/download)
+datasets/
+
+# Model files (unprepared)
+models/
+
+# Notebook files (unprepared)
+notebooks/
+
+# Reference files (unprepared)
+references/
+
+# Report files (unprepared)
+reports/
+
+# Source files (unprepared)
+source/
+
+# Miscellaneous files
